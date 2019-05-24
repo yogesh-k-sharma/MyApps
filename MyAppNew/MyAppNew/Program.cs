@@ -10,7 +10,9 @@ namespace MyAppNew
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world !");
+            Console.WriteLine("Hello world !"); // hello world
+
+            Console.WriteLine("This is my first app.");
         }
     }
 }
