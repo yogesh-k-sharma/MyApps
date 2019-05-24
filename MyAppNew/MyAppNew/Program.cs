@@ -13,6 +13,8 @@ namespace MyAppNew
             Console.WriteLine("Hello world !"); // hello world
 
             Console.WriteLine("This is my first app.");
+
+            Console.WriteLine("Hi there !");
         }
     }
 }
